@@ -6,8 +6,8 @@ title = "Introduction"
 next = "/start/welcome/"
 +++
 
-### <span style="color:#e00;font-weight:bold;font-size:300%;text-shadow:2px 2px #a00;line-height:100%;">DON'T PANIC</span>
+### <span style="color:#e00;font-weight:bold;font-size:300%;text-shadow:2px 2px #a00;line-height:100%;">QUE NO CUNDA EL PANICO!</span>
 
-# The Alpha's Guide to the Galaxy
+# La guia del Alpha galáctico
 
-A guide for alpha-clone players of EVE Online.
+Una guia para jugadores con clones alpha en EVE Online.
