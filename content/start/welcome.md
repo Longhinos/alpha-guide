@@ -7,14 +7,12 @@ next = "/start/prereqs/"
 prev = "/start/"
 +++
 
-This guide is designed to help alpha clone players quickly ramp up their competency in EVE Online.
+Esta guía esta diseñada para ayudar a los jugadores con clones alpha a alcanzar rápidamente un cierto nivel de competencia en EVE Online.
 
-While we can't make you an expert overnight, we can start you out on the right foot and help you
-grasp the things that the tutorial might not cover, or cover them in more detail.
+A pesar de que no podemos hacer de tí un experto de la noche a la mañana, podemos ayudarte a empezar con buen pie y conseguir que "pilles" aquellas cosas que el tutorial no cuenta, o no lo hace con suficiente detalle.
 
-This guide isn't comprehensive. There are many other excellent resources out there that provide
-broader knowledge about EVE Online, and parts of this guide may link to them as well. However,
-this guide in particular aims to address the specific needs of alpha clone capsuleers.
+Esta no es una guía exhaustiva. Hay otros muchisimos y excelentes recursos además de los que proporcionamos
+que aumentarán vuestro conocimiento sobre EVE Online, y algunas partes de esta guía enlazaran a ellos. No obstante, esta guía en particular se intenta centrar en las necesidades específicas de los jugadores con clon alpha.
 
 {{% notice note %}}
 We're constantly updating and adding new information to the Guide.
